@@ -50,6 +50,6 @@ I'm especially interested in **React, TypeScript, AI-assisted development and pr
 
 ## 🔗 Projects
 
-- [FacadeFlow](https://github.com/SATananov/FacadeFlow)
-- [CaneCorsoHeritage](https://github.com/SATananov/CaneCorsoHeritage)
-- [USG Cane Corso Platform](https://usg-cane-corso-platform.com/)
+- [FacadeFlow](https://github.com/SATananov/FacadeFlow) — **Active development**
+- [CaneCorsoHeritage](https://github.com/SATananov/CaneCorsoHeritage) — **Active development**
+- [USG Cane Corso Platform](https://usg-cane-corso-platform.com/) — **Platform in development**
